@@ -1,0 +1,6 @@
+import glob
+
+files = glob.glob("???.png")
+files.sort()
+for c, f in enumerate(files):
+    print f, "f%04d.png" % c
