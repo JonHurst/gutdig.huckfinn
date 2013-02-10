@@ -369,6 +369,9 @@
         <lines>843,1111,1383,1661,1939,2212,2479,2757,3030,3303,3575,3848,4126,4398,4676,4949,5222,5494,5772,6045,6318,6590,6863,7141,7414,7691,7964,8237,8510,8782,9060,9328</lines>
       </image>
       <text><xi:include href="text/054" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>illustration</tag>
+      </tags>
     </page>
     <page id="055">
       <image src="images/055.png">
@@ -1551,6 +1554,9 @@
         <lines>845,1115,1384,1634,1934,2179,2479,2754,3029,3299,3574,3849,4124,4394,4669,4943,5193,5488,5768,6038,6293,6588,6863,7138,7413,7683,7963,8233,8487,8783,9058,9327</lines>
       </image>
       <text><xi:include href="text/203" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>illustration</tag>
+      </tags>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -2279,6 +2285,7 @@
       <text><xi:include href="text/290" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
+        <tag>smallcaps</tag>
       </tags>
     </page>
     <page id="291">
@@ -2865,6 +2872,9 @@
         <lines>819,1122,1395,1668,1941,2214,2487,2780,3033,3311,3584,3832,4130,4408,4676,4954,5227,5500,5773,6046,6294,6617,6870,7143,7416,7664,7962,8235,8483,8756,9034,9307</lines>
       </image>
       <text><xi:include href="text/356" parse="text" /></text>
+      <tags class="block_formatting">
+        <tag>illustration</tag>
+      </tags>
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
@@ -3105,6 +3115,9 @@
         <lines>1259,1588,1924,2222,2589,2918,3255,3599</lines>
       </image>
       <text><xi:include href="text/384" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
       <tags class="block_formatting">
         <tag>letter</tag>
       </tags>
